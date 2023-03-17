@@ -2,6 +2,19 @@
 <html>
   <head>
     <title>My GitHub Pages Website</title>
+    <style>
+      /* Custom CSS styles */
+      footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
     <h1>Welcome to my GitHub Pages website!</h1>
@@ -33,5 +46,8 @@
         <li><a href="#">Project 3</a></li>
       </ul>
     </section>
+    <footer>
+      <p>&copy; 2023 My GitHub Pages Website</p>
+    </footer>
   </body>
 </html>
